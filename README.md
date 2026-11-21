@@ -1,1 +1,1 @@
-# H-zl--Sipari--Biyometrik--deme-Sistemi
+# Hizl--Siparis-Biyometrik-odeme-Sistemi
