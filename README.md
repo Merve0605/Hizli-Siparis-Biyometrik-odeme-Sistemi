@@ -1,1 +1,1 @@
-# Hizl--Siparis-Biyometrik-odeme-Sistemi
+# Hizli-Siparis-Biyometrik-odeme-Sistemi
